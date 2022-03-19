@@ -1,0 +1,41 @@
+.statistics {
+    width: 300px;
+    height: auto;
+    background-color: cadetblue;
+    padding-bottom: 10px;
+
+}
+
+.title {
+    text-align: center;
+    text-transform: uppercase;
+    padding-top: 10px;
+}
+
+.stat__list {
+    background-color: beige;
+    list-style: none;
+    display: flex;
+    padding: 0;
+    margin: 0;
+    padding-bottom: 30px;
+    padding-top: 30px;
+}
+
+.item {
+    background-color: blue;
+    display: flex;
+    flex-direction: column;    
+    align-items: center;
+    width: 70px;
+    margin-right: 3px;     
+}
+
+.label {
+    color: wheat;
+    margin-bottom: 10px;
+}
+
+.percentage {
+    color: wheat;
+}
