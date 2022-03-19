@@ -1,7 +1,7 @@
 .transaction__history {
     position: absolute;
     top: 0;
-    left: 900px;
+    left: 1000px;
     border-collapse: collapse;
     color: #686461;
 }
